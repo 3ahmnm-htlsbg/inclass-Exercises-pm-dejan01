@@ -27,6 +27,7 @@ TODO
 + Renaming data and folder in Assets folder
 + Importing Playmaker into Unity Project
 + Adding Playmaker to .gitignore
++ right way to display Debug.log Message in Unity Console with PlayMaker 
 
 
 *Copyright by Dejan* 
